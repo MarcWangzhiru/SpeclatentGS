@@ -1,5 +1,5 @@
 # SpeclatentGS
-This repo contains the official implementation of the **ACM MM 2024** [paper]():
+This repo contains the official implementation of the **ACM MM 2024** [paper]() :
 
 <div align="center">
 <h1>
@@ -14,5 +14,16 @@ Zhiru Wang，Shiyun Xie，Chengwei Pan and Guoping Wang
 </h4>
 </div>
 
-## PIPELINE 
+### PIPELINE 
 ![pipeline](/assets/pipeline.png)
+
+## Environment Installation
+
+
+## Dataset Preparation
+
+## Trainng
+
+## Evalution
+
+## Citation
