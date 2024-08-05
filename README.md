@@ -9,7 +9,7 @@ SpecGaussian with latent features: A high-quality modeling of the view-dependent
 </h1>
 <h4>
 <b>
-Zhiru Wang， Shiyun Xie Chengwei Pan and Guoping Wang
+Zhiru Wang，Shiyun Xie，Chengwei Pan and Guoping Wang
 </b>
 </h4>
 </div>
