@@ -15,4 +15,4 @@ Zhiru Wang， Shiyun Xie Chengwei Pan and Guoping Wang
 </div>
 
 ## PIPELINE 
-![pipeline](/assets/latent-gs-pipeline.png)
+![pipeline_assets](/assets/latent-gs-pipeline.png)
