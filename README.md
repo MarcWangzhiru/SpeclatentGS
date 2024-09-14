@@ -1,5 +1,5 @@
 # SpeclatentGS
-This repo contains the official implementation of the **ACM MM 2024** [paper]() :
+This repo contains the official implementation of the **ACM MM 2024** [paper](https://arxiv.org/abs/2409.05868) :
 
 <div align="center">
 <h1>
