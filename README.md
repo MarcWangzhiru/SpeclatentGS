@@ -40,7 +40,7 @@ pip install ninja git+https://github.com/NVlabs/tiny-cuda-nn/#subdirectory=bindi
 ```
 
 ## Dataset Preparation
-The dataset used in our method is in the same format as the dataset in Gaussian Splatting. If you want to use your custom dataset, follow the process of in [Gaussian Splatting](https://github.com/graphdeco-inria/gaussian-splatting.git).
+The dataset used in our method is in the same format as the dataset in Gaussian Splatting. If you want to use your custom dataset, follow the process of in [Gaussian Splatting](https://github.com/graphdeco-inria/gaussian-splatting.git). We obtained our own [shiny_dataset]( https://drive.google.com/file/d/1mmBmptl9Pd8crLfO9y2E51F_R4Ecy0R1/view?usp=sharing) by resize the images of original [Shiny Dataset](https://vistec-my.sharepoint.com/:f:/g/personal/pakkapon_p_s19_vistec_ac_th/EnIUhsRVJOdNsZ_4smdhye0B8z0VlxqOR35IR3bp0uGupQ?e=TsaQgM) and recolmap.
 
 
 ## Trainng
